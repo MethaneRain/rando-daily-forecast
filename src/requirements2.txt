@@ -1,0 +1,2 @@
+added /Users/chowdahead/Documents/GitHub/rando-daily-forecast/src/list
+completed operation for: /Users/chowdahead/Documents/GitHub/rando-daily-forecast/src/list
